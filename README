@@ -1,0 +1,3 @@
+Home Theater File Browser is a WPF application that, given a base directory, navigates through it trying to find media files.
+
+Similiar to other Media Center applications like Windows Media Center or XBMC but without the need for library configuration.
